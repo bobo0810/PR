@@ -1,0 +1,11 @@
+.vscode
+.ipynb*
+**/__pycache__
+Docs/build
+ExpLog
+**/.DS_Store
+my*
+*.ipynb
+*.jpg
+*.yml
+*.log
